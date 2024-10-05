@@ -1,4 +1,4 @@
- Statistics is collecting, analyzing, interpreting, and presenting data. It provides essential tools for understanding the world around us by helping us make sense of complex information.
+ ## Statistics is collecting, analyzing, interpreting, and presenting data. It provides essential tools for understanding the world around us by helping us make sense of complex information.
  Key Concepts
 A-> Measures of central tendency
 B-> Variability
